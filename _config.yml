@@ -1,8 +1,8 @@
 # Base configs
-baseurl: "http://photography.ramswaroop.me"
+#baseurl: "http://photography.ramswaroop.me"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+#google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Ram Patra"
