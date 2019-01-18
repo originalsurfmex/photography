@@ -233,7 +233,7 @@
             // This sets the background of the "image" <span> to the image pointed to by its child
             // <img> (which is then hidden). Gives us way more flexibility.
 
-            // Set background.
+            // Set background.            
             $image.css('background-image', 'url(' + $image_img.attr('src') + ')');
 
             // Set background position.
